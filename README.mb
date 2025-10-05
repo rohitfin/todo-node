@@ -1,7 +1,22 @@
 
-middleware
+Useful keyboard shortcuts
+    F5 — Start/Continue
+    F10 — Step Over
+    F11 — Step Into
+    Shift+F11 — Step Out
+    Shift+F5 — Stop
+    Ctrl+Shift+D — Open Run & Debug view
 
+
+
+middleware
+.env - npm install dotenv - call on server.js file
+config - db-connection - install mongoose and mongoDB, call on server.js file
 create routes
-controller
 create models
-config - db-connection
+controller
+
+
+in case while post, put method user send extra column then how to handle
+
+
